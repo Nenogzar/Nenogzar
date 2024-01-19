@@ -38,6 +38,9 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 [YouTube Downloader converter](https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter)
 
+
+### :fire: My Stats :
+
 <p align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
