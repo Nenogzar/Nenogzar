@@ -40,6 +40,12 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 - 📫 You can get in touch with me by email at: [mail](mailto:stoyan.naydenov@gmail.com) - [X /twitter/](https://twitter.com/NaidenovST) - [Discord](https://discordapp.com/users/nenogzar)
 
+<p align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
 
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)  |
@@ -50,10 +56,8 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 <p align="center">
 
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
- 
-</p>
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=nenogzar&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
 
