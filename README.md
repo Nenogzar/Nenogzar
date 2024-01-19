@@ -59,10 +59,13 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
 
 </p>
-  <img src="https://komarev.com/ghpvc/?username=nenogzar&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/> 
+
           
 [![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
