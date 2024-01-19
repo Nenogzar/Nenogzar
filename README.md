@@ -2,12 +2,14 @@
 
 # Software Engineering student with Python
 
-I'm learning Python in SoftUni
+I'm learning Python in ![](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)
+
+This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
 
-[SoftUni Basic](https://github.com/Nenogzar/LearningPython/tree/main/Book)
+[SoftUni Basic](https://github.com/Nenogzar/LearningPython/tree/main/Book) October 2023
 
-[SoftUni Fundamentals](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) 
+[SoftUni Fundamentals](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) January 2024
 
 
 # Other
