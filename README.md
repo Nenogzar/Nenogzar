@@ -38,8 +38,6 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 [YouTube Downloader converter](https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter)
 
-- 📫 You can get in touch with me by email at: [mail](mailto:stoyan.naydenov@gmail.com) - [X /twitter/](https://twitter.com/NaidenovST) - [Discord](https://discordapp.com/users/nenogzar)
-
 <p align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -57,10 +55,11 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
 
-
-  <img src="https://komarev.com/ghpvc/?username=nenogzar&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
-
+  <img src="https://komarev.com/ghpvc/?username=nenogzar&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/> 
+          
+[![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
