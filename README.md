@@ -1,9 +1,7 @@
-### Hi there 👋
-# Python projects
-![](https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg)
+<img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" width="850" height="400">
 
-[SoftUni Basic
-](https://github.com/Nenogzar/LearningPython/tree/main/Book)
+
+[SoftUni Basic](https://github.com/Nenogzar/LearningPython/tree/main/Book)
 
 [SoftUni Fundamentals](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) 
 
