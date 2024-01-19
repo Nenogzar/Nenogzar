@@ -49,7 +49,9 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 </p>
 
 <p align="center">
+    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
 </p>
 
 <!--
