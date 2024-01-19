@@ -24,6 +24,7 @@
 [Notepad](https://github.com/Nenogzar/LearningPython/tree/main/notepad)
 
 [Games](https://github.com/Nenogzar/LearningPython/tree/main/Other/Games)
+*    [Rock Paper Scissors](https://github.com/Nenogzar/RockPaperScissorsByNenogzar)
 
 [QRCode](https://github.com/Nenogzar/LearningPython/tree/main/Other/QRCode)
 
