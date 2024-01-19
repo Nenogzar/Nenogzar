@@ -30,7 +30,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 [Notepad](https://github.com/Nenogzar/LearningPython/tree/main/notepad)
 
 [Games](https://github.com/Nenogzar/LearningPython/tree/main/Other/Games)
-*    [Rock Paper Scissors](https://github.com/Nenogzar/RockPaperScissorsByNenogzar)
+*    [Rock Paper Scissors](https://github.com/Nenogzar/RockPaperScissorsByNenogzar) - 9. Exercise: Data Types and Variables - additional practical project     
 
 [QRCode](https://github.com/Nenogzar/LearningPython/tree/main/Other/QRCode)
 
