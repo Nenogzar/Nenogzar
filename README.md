@@ -38,20 +38,20 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
-</p>
+
+
+|<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)  |
+|---|---|
+  
+  
+
+    
+
 
 <p align="center">
 
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
-
-</p>
-
-<p align="center">
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
-
+ 
 </p>
 
 <!--
