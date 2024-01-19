@@ -2,7 +2,9 @@
 
 # Software Engineering student with Python
 
-I'm learning Python in ![](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)
+🌱 I’m currently learning Python in ![](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)
+
+👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof)
 
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
@@ -37,21 +39,19 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 [YouTube Downloader converter](https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter)
 
 
-
-
-
 |<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)  |
 |---|---|
   
   
 
-    
-
-
 <p align="center">
 
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nenogzar&label=Profile%20views&color=blue&style=flat" alt="PROFILE VIEWS"/>
 </p>
 
 <!--
