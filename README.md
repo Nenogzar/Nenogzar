@@ -1,5 +1,9 @@
 <img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" width="850" height="400">
 
+# Software Engineering student with Python
+
+I'm learning Python in SoftUni
+
 
 [SoftUni Basic](https://github.com/Nenogzar/LearningPython/tree/main/Book)
 
@@ -30,6 +34,9 @@
 
 [YouTube Downloader converter](https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter)
 
+
+| <a href="https://github.com/nenogzar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nenogzar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/nenogzar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
