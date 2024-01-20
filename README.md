@@ -6,7 +6,7 @@
 [![SoftUni](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)](https://softuni.bg/)
 
 
-👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof)
+👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/ishopov)
 
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
