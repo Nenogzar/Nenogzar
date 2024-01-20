@@ -27,7 +27,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://img.shields.io/badge/Comprehension-3670A0?style=for-the-badge&logo=Comprehension&logoColor=ffdd54" alt="Comprehension Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/HELP/main/Dictionary">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Dictionary">
     <img src="https://img.shields.io/badge/Dictionary-%23323330.svg?style=for-the-badge&logo=Dictionary&logoColor=%23F7DF1E" alt="Dictionary Badge"/>
   </a>
   
@@ -43,7 +43,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://img.shields.io/badge/Slice-FCC624?style=for-the-badge&logo=Slice&logoColor=black" alt="Slice Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/HELP/Other/youtube-downloader-converter">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Other/youtube-downloader-converter">
     <img src="https://img.shields.io/badge/YouTube Downloader converter-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Downloader converter Badge"/>
   </a>
   
