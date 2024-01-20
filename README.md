@@ -10,10 +10,15 @@
 
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
+|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/LearningPython/tree/main/softuni/basics_programming)Basic Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) January 2024  |   |
+|---|---|---|
 
-[SoftUni Basic](https://github.com/Nenogzar/LearningPython/tree/main/Book) October 2023
 
-[SoftUni Fundamentals](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) January 2024
+
+
+
+
+
 
 
 <br/><br/>
