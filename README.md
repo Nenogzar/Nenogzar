@@ -2,7 +2,9 @@
 
 # Software Engineering student with Python
 
-🌱 I’m currently learning Python in ![](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)
+🌱 I’m currently learning Python in 
+[![SoftUni](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)](https://softuni.bg/)
+
 
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof)
 
