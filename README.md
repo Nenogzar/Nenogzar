@@ -52,11 +52,11 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 ### :fire: My Stats :
 
-<p align="center">
+
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+
 
 
 
@@ -65,13 +65,14 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   
   
 
-<p align="center">
+
 
   [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
 
-</p>
 
-          
+
+</div>          
+
 [![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
