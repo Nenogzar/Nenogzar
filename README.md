@@ -43,7 +43,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://img.shields.io/badge/Slice-FCC624?style=for-the-badge&logo=Slice&logoColor=black" alt="Slice Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/HELP/youtube-downloader-converter">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/HELP/Other/youtube-downloader-converter">
     <img src="https://img.shields.io/badge/YouTube Downloader converter-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Downloader converter Badge"/>
   </a>
   
