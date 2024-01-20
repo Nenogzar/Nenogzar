@@ -14,13 +14,6 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 |---|---|---|
 
 
-
-
-
-
-
-
-
 <br/><br/>
 
 <div id="badges" align="center">
