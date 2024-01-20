@@ -23,11 +23,11 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://img.shields.io/badge/Books-%23092E20.svg?style=for-the-badge&logo=Books&logoColor=white" alt="Books Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Comprehension">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Comprehension">
     <img src="https://img.shields.io/badge/Comprehension-3670A0?style=for-the-badge&logo=Comprehension&logoColor=ffdd54" alt="Comprehension Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Dictionary">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/HELP/main/Dictionary">
     <img src="https://img.shields.io/badge/Dictionary-%23323330.svg?style=for-the-badge&logo=Dictionary&logoColor=%23F7DF1E" alt="Dictionary Badge"/>
   </a>
   
@@ -35,19 +35,19 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://img.shields.io/badge/Rock Paper Scissors-268BEE?style=for-the-badge&logo=Rock Paper Scissors&logoColor=white" alt="Rock Paper Scissors Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Function">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Function">
     <img src="https://img.shields.io/badge/Function-%23121011.svg?style=for-the-badge&logo=Function&logoColor=white" alt="Function Badge"/>
   </a>
   
-   <a href="https://github.com/Nenogzar/LearningPython/tree/main/slice">
+   <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/slice">
     <img src="https://img.shields.io/badge/Slice-FCC624?style=for-the-badge&logo=Slice&logoColor=black" alt="Slice Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/HELP/youtube-downloader-converter">
     <img src="https://img.shields.io/badge/YouTube Downloader converter-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Downloader converter Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/time">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Other/time">
     <img src="https://img.shields.io/badge/Time-blue?style=for-the-badge&logo=Time&logoColor=white" alt="Time Badge"/>
   </a>
 
