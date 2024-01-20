@@ -14,29 +14,40 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 [SoftUni Fundamentals](https://github.com/Nenogzar/LearningPython/tree/main/softuni/fundamentals_python) January 2024
 
 
-# Other
+<br/><br/>
 
-[Python Books](https://github.com/Nenogzar/LearningPython/tree/main/Book)
-    
-[Comprehension](https://github.com/Nenogzar/LearningPython/tree/main/Comprehension)
-
-[Coordinate system](https://github.com/Nenogzar/LearningPython/tree/main/coordinate_system)
-
-[Dictionary](https://github.com/Nenogzar/LearningPython/tree/main/Dictionary)
-
-[Function](https://github.com/Nenogzar/LearningPython/tree/main/Function)
-
-* [Slice](https://github.com/Nenogzar/LearningPython/tree/main/slice)
-* [Time](https://github.com/Nenogzar/LearningPython/tree/main/time)
-
-[Notepad](https://github.com/Nenogzar/LearningPython/tree/main/notepad)
-
-[Games](https://github.com/Nenogzar/LearningPython/tree/main/Other/Games)
-*    [Rock Paper Scissors](https://github.com/Nenogzar/RockPaperScissorsByNenogzar) - 9. Exercise: Data Types and Variables - additional practical project     
-
-[QRCode](https://github.com/Nenogzar/LearningPython/tree/main/Other/QRCode)
-
-[YouTube Downloader converter](https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter)
+<div id="badges" align="center">
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Book">
+    <img src="https://img.shields.io/badge/Books-%23092E20.svg?style=for-the-badge&logo=Books&logoColor=white" alt="Books Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Comprehension">
+    <img src="https://img.shields.io/badge/Comprehension-3670A0?style=for-the-badge&logo=Comprehension&logoColor=ffdd54" alt="Comprehension Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Dictionary">
+    <img src="https://img.shields.io/badge/Dictionary-%23323330.svg?style=for-the-badge&logo=Dictionary&logoColor=%23F7DF1E" alt="Dictionary Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/RockPaperScissorsByNenogzar">
+    <img src="https://img.shields.io/badge/Rock Paper Scissors-268BEE?style=for-the-badge&logo=Rock Paper Scissors&logoColor=white" alt="Rock Paper Scissors Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Function">
+    <img src="https://img.shields.io/badge/Function-%23121011.svg?style=for-the-badge&logo=Function&logoColor=white" alt="Function Badge"/>
+  </a>
+  
+   <a href="https://github.com/Nenogzar/LearningPython/tree/main/slice">
+    <img src="https://img.shields.io/badge/Slice-FCC624?style=for-the-badge&logo=Slice&logoColor=black" alt="Slice Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/Other/youtube-downloader-converter">
+    <img src="https://img.shields.io/badge/YouTube Downloader converter-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Downloader converter Badge"/>
+  </a>
+  
+  <a href="https://github.com/Nenogzar/LearningPython/tree/main/time">
+    <img src="https://img.shields.io/badge/Time-blue?style=for-the-badge&logo=Time&logoColor=white" alt="Time Badge"/>
+  </a>
 
 
 ### :fire: My Stats :
