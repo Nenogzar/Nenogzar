@@ -1,4 +1,4 @@
-<img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" width="1024" height="576" >
+<img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" width="1024" height="480" >
 
 # Software Engineering student with Python
 
