@@ -62,7 +62,8 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/Nenogzar)  |
+|<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nenogzar&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://github.com/Nenogzar)
+ |
 |---|---|
   
   
