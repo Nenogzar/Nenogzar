@@ -2,9 +2,11 @@
 
 # Software Engineering student with Python in
 
+<div id="badges" align="center">
 <a href="https://softuni.bg/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/softuni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
 </a>
+</div> 
 
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov)
 
@@ -13,8 +15,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 |  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January 2024  |   |
 |---|---|---|
 
-
-<br/><br/>
+# Additional utilities and tutorials
 
 <div id="badges" align="center">
   <a href="https://github.com/Nenogzar/LearningPython/tree/main/Book">
@@ -48,8 +49,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Other/time">
     <img src="https://img.shields.io/badge/Time-blue?style=for-the-badge&logo=Time&logoColor=white" alt="Time Badge"/>
   </a>
-
-
+  
 ### :fire: My Stats :
 
 
