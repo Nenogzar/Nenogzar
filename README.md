@@ -1,8 +1,7 @@
 <img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" width="1024" height="450" >
 
-# Software Engineering student with Python
+# Software Engineering student with Python in
 
-🌱 I’m currently learning Python in 
 <a href="https://softuni.bg/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/softuni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
 </a>
