@@ -3,8 +3,9 @@
 # Software Engineering student with Python
 
 🌱 I’m currently learning Python in 
-[![SoftUni](https://github.com/Nenogzar/LearningPython/blob/main/softuni/fundamentals_python/SU.jpg)](https://softuni.bg/)
-
+<a href="https://softuni.bg/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/softuni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
+</a>
 
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov)
 
