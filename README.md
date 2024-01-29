@@ -12,7 +12,7 @@
  
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
-|<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="100" height="100"> </br> [October 2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="110" height="110"></br>[January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)| <img src="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="MySQL January" width="100" height="100"> </br> [January 2024](https://github.com/Nenogzar/Softuni_MySQL) |
+|<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="100" height="100"> </br> [October 2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="100" height="100"></br>[January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)| <img src="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="MySQL January" width="100" height="100"> </br> [January 2024](https://github.com/Nenogzar/Softuni_MySQL) |
 |---|---|---|
 
 
