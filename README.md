@@ -12,8 +12,9 @@
  
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 https://github.com/Nenogzar/Softuni_MySQL/blob/main/mySQL.png
-|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic</br>Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January</br>2024  | [![WofUni MySQL](<img scr="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="Nenogzar_Python" width="60" height="60">)]  |
+|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic</br>Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January</br>2024  | [![](<img scr="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="Nenogzar_Python" width="60" height="60">)](https://github.com/Nenogzar/Softuni_MySQL) January</br>2024 |
 |---|---|---|
+
 
 # Additional utilities and tutorials
 
