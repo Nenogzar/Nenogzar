@@ -9,10 +9,10 @@
 </div> 
 
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov)
-
+ 
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
-
-|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic</br>Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January</br>2024  |   |
+https://github.com/Nenogzar/Softuni_MySQL/blob/main/mySQL.png
+|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic</br>Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January</br>2024  | [![WofUni MySQL](<img scr="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="Nenogzar_Python" width="60" height="60">)]  |
 |---|---|---|
 
 # Additional utilities and tutorials
