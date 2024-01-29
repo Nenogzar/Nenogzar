@@ -12,7 +12,7 @@
  
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
-|  [![SoftUni Basic](https://about.softuni.bg/Content/images/home-page/software-university-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)Basic</br>Oct.2023| [![SoftUni Fundamentals](https://about.softuni.bg/Content/images/home-page/foundation-logo.svg)](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python) January</br>2024  | <img src="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="MySQL January" width="70" height="70"> </br> January</br>2024 |
+|<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="70" height="70"> </br> [Oct.2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="70" height="70"></br>[January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)| <img src="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="MySQL January" width="70" height="70"> </br> [January 2024](https://github.com/Nenogzar/Softuni_MySQL) |
 |---|---|---|
 
 
