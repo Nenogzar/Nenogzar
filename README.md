@@ -52,25 +52,12 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   </a>
   
 ### :fire: My Stats :
-
-
-    
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&theme=dark&background=000000)](https://git.io/streak-stats)|
 |---|---|
-  
-  
-
-
-
-  [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
-
-
+[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
 
 </div>          
 
@@ -79,6 +66,9 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
+
+<img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" />
+
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
