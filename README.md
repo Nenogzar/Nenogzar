@@ -18,7 +18,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 # Additional utilities and tutorials
 
-<div id="badges" align="center">
+<p id="badges" align="center">
   <a href="https://github.com/Nenogzar/LearningPython/tree/main/Book">
     <img src="https://img.shields.io/badge/Books-%23092E20.svg?style=for-the-badge&logo=Books&logoColor=white" alt="Books Badge"/>
   </a>
@@ -52,17 +52,14 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   </a>
   
 ### :fire: My Stats :
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="200" alt="stats graph"  />
+
+
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-|<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&theme=dark&background=000000)](https://git.io/streak-stats)|
-|---|---|
-
-
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
-
-</div>          
-
 [![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
@@ -75,6 +72,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   <img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" onclick="window.location.href='https://www.dunemovie.com/';"/>
 </a>
 
+</p>
 
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
