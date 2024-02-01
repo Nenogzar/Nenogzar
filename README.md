@@ -69,7 +69,12 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
 
-<img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" />
+
+
+<a href="https://www.dunemovie.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" onclick="window.location.href='https://www.dunemovie.com/';"/>
+</a>
+
 
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
