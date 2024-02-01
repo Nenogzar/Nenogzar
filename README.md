@@ -57,6 +57,8 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nenogzar&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&theme=dark&background=000000)](https://git.io/streak-stats)|
 |---|---|
+
+
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8)](https://github.com/nenogzar)
 
 </div>          
