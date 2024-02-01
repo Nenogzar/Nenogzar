@@ -1,6 +1,7 @@
 <div id="badges" align="center">
 <img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" height="450"  >
 </div>
+
 # Software Engineering student with Python in
 
 <div id="badges" align="center">
@@ -8,6 +9,8 @@
   <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/fundamentals_python/13_HTML%20%26%20CSS%20Basics/03.%20HTML%20and%20CSS%20Basics/02_SoftUni_Logo/image/SoftUni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
 </a>
 </div> 
+
+
 
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov)
  
