@@ -52,7 +52,9 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
    <a href="https://www.apachefriends.org/">
     <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50"/>
    </a>
-
+   <a href="https://www.djangoproject.com/">
+    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width="50"/>
+   </a>
    
    </br>
    
