@@ -104,12 +104,15 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   </a>
   
 ### :fire: My Stats :
+
+<p id="badges" align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats2-olive.vercel.app/api?username=Nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="200" alt="stats graph"  />
-
+</div>
+</p>
 
   
 [![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
