@@ -137,7 +137,7 @@
   [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
-  [![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
+  [![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)](https://github.com/Nenogzar)
   </div>
 </p>
 
