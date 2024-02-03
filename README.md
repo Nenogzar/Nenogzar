@@ -49,6 +49,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" width="60"/>
    </a>
 </p> 
+
 <p id="badges" align="center">
   <a href="https://www.w3.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
@@ -66,6 +67,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
     <img src="https://iconape.com/wp-content/files/fi/343970/svg/343970.svg" width="50"/>
   </a>
 </p>
+
    </br>
    
 # Additional utilities and tutorials
@@ -102,31 +104,39 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Other/time">
     <img src="https://img.shields.io/badge/Time-blue?style=for-the-badge&logo=Time&logoColor=white" alt="Time Badge"/>
   </a>
-  
+</p> 
+
 ### :fire: My Stats :
 
-<p id="badges" align="center">
+<p align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="200" alt="stats graph"/>
 </div>
 </p>
 
+<p>  
+  <div align="center">
+    
+  [![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
+  </div>
+</p>
+
+<p>
+<div align="center">
+
+  <a href="https://www.dunemovie.com/" target="_blank" rel="noopener noreferrer">
+        <img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" onclick="window.location.href='https://www.dunemovie.com/';"/>
+  </a>
   
-[![Discord](https://img.shields.io/badge/Discord-nenogzar-blue?logo=discord)](https://discordapp.com/users/nenogzar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
-
-
-
-<a href="https://www.dunemovie.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" width=450 height=110px alt="side_sticker" src="https://media.giphy.com/media/ntUWJeNoaYCwOeg22l/giphy.gif" onclick="window.location.href='https://www.dunemovie.com/';"/>
-</a>
-
+  </div>
+  
 </p>
 
 <!--
