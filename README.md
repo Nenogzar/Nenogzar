@@ -2,7 +2,7 @@
 <img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" height="450"  >
 </div>
 
-# Software Engineering student with Python in
+🌱  Software Engineering student with Python in
 
 <div id="badges" align="center">
 <a href="https://softuni.bg/" target="_blank" rel="noopener noreferrer">
