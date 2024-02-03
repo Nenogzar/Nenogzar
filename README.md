@@ -11,13 +11,12 @@
 </div> 
 
 
-
 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov)
 
 
 This is my collection of solutions to the tasks included in the SoftUni Fundamentals programming whit Python
 
-|<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="100" height="100"> </br> [October 2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="100" height="100"></br>[January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)| <img src="https://github.com/Nenogzar/Softuni_MySQL/blob/main/mysql.jpg" alt="MySQL January" width="100" height="100"> </br> [January 2024](https://github.com/Nenogzar/Softuni_MySQL) |
+|<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="100" height="100"> </br> [October 2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="100" height="100"></br>[January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)| <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" alt="MySQL January" width="100" height="100"> </br> [January 2024](https://github.com/Nenogzar/Softuni_MySQL) |
 |---|---|---|
 
 🛠️ Technologies & Tools that I have used
@@ -25,20 +24,14 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
   </a>
-    <a href="https://www.w3.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-  </a>
-    <a href="https://www.w3schools.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <a href="https://www.jetbrains.com">
+    <img src="https://media.djangoproject.com/cache/df/17/df173f82e0b8d0c485ac3b96f0f87514.png" width="50"/>
    </a>
     <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" width=50"/>
    </a>
    <a href="https://www.postman.com/">
-    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="50"/>
-   </a>
-   <a href="https://morioh.com/">
-    <img src="https://avatars.githubusercontent.com/u/58966500?s=200&v=4" width="50"/>
+    <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50"/>
    </a>
    <a href="https://www.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg/1728px-Microsoft_Office_logo_%282013%E2%80%932019%29.svg.png" width="40"/>
@@ -46,16 +39,33 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
    <a href="https://www.php.net/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png" width="60"/>
    </a>
-   <a href="https://www.codecademy.com/">
-    <img src="https://iconape.com/wp-content/files/fi/343970/svg/343970.svg" width="50"/>
-   </a>
    <a href="https://www.apachefriends.org/">
     <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50"/>
    </a>
    <a href="https://www.djangoproject.com/">
-    <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" width="50"/>
+    <img src="https://static.djangoproject.com/img/logo-django.42234b631760.svg" width="50"/>
    </a>
-   
+   <a href="https://www.mysql.com/">
+    <img src="https://labs.mysql.com/common/logos/mysql-logo.svg" width="60"/>
+   </a>
+</p> 
+<p id="badges" align="center">
+  <a href="https://www.w3.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60"/>
+  </a>
+  <a href="https://www.w3schools.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60"/>
+   </a>
+  <a href="https://www.edx.org/">
+    <img src="https://www.edx.org/images/logos/edX_by2U.svg" width="60"/>
+  </a>
+  <a href="https://morioh.com/">
+    <img src="https://avatars.githubusercontent.com/u/58966500?s=200&v=4" width="50"/>
+  </a>
+  <a href="https://www.codecademy.com/">
+    <img src="https://iconape.com/wp-content/files/fi/343970/svg/343970.svg" width="50"/>
+  </a>
+</p>
    </br>
    
 # Additional utilities and tutorials
