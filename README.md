@@ -68,6 +68,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   </a>
 </p>
 
+
    </br>
    
 # Additional utilities and tutorials
@@ -107,14 +108,19 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
 </p> 
 
 ### :fire: My Stats :
-
 <p align="center">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Nenogzar&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="150" alt="stats graph"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=8" height="200" alt="stats graph"/>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox" height="150" alt="stats graph"/>
+  </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nenogzar&show_icons=true&theme=gruvbox" height="150" alt="stats graph"/>
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox" height="150" alt="stats graph"/>
+  </a>
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=4*2" height="200" alt="stats graph"/>
+  </a>
 </p>
 
 <p>  
@@ -124,7 +130,7 @@ This is my collection of solutions to the tasks included in the SoftUni Fundamen
   [![Twitter Follow](https://img.shields.io/twitter/follow/NaidenovST?style=social)](https://twitter.com/NaidenovST)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stoyan-naidenov-22347541/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stoyan.naidenov@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
+  [![Profile Views](https://komarev.com/ghpvc/?username=nenogzar&color=green)
   </div>
 </p>
 
