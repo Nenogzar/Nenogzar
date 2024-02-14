@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
 <a href="https://softuni.bg/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/fundamentals_python/13_HTML%20%26%20CSS%20Basics/03.%20HTML%20and%20CSS%20Basics/02_SoftUni_Logo/image/SoftUni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
+  <img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/fundamentals_python/lectures/13_HTML%20%26%20CSS%20Basics/03.%20HTML%20and%20CSS%20Basics/02_SoftUni_Logo/image/SoftUni-logo.png" width="200" onclick="window.location.href='https://softuni.bg/';"/>
 </a>
 </div> 
 
