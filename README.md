@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color: #0d1117; color: white;">
+
+
 <div id="badges" align="center">
 <img src="https://github.com/Nenogzar/LearningPython/blob/main/python1.jpg" alt="Nenogzar_Python" height="450"  >
 </div>
@@ -151,6 +161,11 @@
   </div>
   
 </p>
+
+
+
+</body>
+</html>
 
 <!--
 **Nenogzar/Nenogzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
