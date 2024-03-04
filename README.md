@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/badge/Comprehension-3670A0?style=for-the-badge&logo=Comprehension&logoColor=ffdd54" alt="Comprehension Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Dictionary">
+  <a href="https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python/lectures/25-26_Dictionaries">
     <img src="https://img.shields.io/badge/Dictionary-%23323330.svg?style=for-the-badge&logo=Dictionary&logoColor=%23F7DF1E" alt="Dictionary Badge"/>
   </a>
   
@@ -107,11 +107,11 @@
     <img src="https://img.shields.io/badge/Rock Paper Scissors-268BEE?style=for-the-badge&logo=Rock Paper Scissors&logoColor=white" alt="Rock Paper Scissors Badge"/>
   </a>
   
-  <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/Function">
+  <a href="https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python/lectures/14-15_Functions">
     <img src="https://img.shields.io/badge/Function-%23121011.svg?style=for-the-badge&logo=Function&logoColor=white" alt="Function Badge"/>
   </a>
   
-   <a href="https://github.com/Nenogzar/LearningPython/tree/main/HELP/slice">
+   <a href="https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python/lectures/11_12_Lists%20Basics/Lists/Lists_slsing">
     <img src="https://img.shields.io/badge/Slice-FCC624?style=for-the-badge&logo=Slice&logoColor=black" alt="Slice Badge"/>
   </a>
   
