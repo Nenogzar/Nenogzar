@@ -31,8 +31,8 @@
 
 ### Python Development
 
-|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/p_advance.png" alt="MSoftUni Python Advance" width="100" height="100">](https://softuni.bg/modules/74/python-advanced-may-2024/1474)</br>[Python Advance</br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/advanced_python) | [Python OOP]() |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| [SoftUni](https://softuni.bg/modules/74/python-advanced-may-2024/1474)</br>[Python Advance</br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/advanced_python) | [<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/p_advance.png" alt="Python OOP" width="100" height="100">]() |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 
 
 
