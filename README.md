@@ -21,7 +21,7 @@
 </div> 
 
 
-## 👯 I have the support of my teachers:  [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ivan Shopov](https://github.com/IvanShopov), [Ines Ivanova](https://github.com/InesIvanova), [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
+## 👯 I have the support of my teachers:  [Ivan Shopov](https://github.com/IvanShopov), [ceo-py](https://github.com/ceo-py/softuni) , [Tamer-py](https://github.com/kumchovylcho),  [Ivailo Kolev](https://github.com/ivaylokenov), [Mario Zahariev](https://github.com/zahariev-webbersof), [Ines Ivanova](https://github.com/InesIvanova), [Diyan Kalaydzhiev](https://github.com/DiyanKalaydzhiev23)
 
 
 ### This is my collection of problem solutions from the courses included in SoftUni Academy
