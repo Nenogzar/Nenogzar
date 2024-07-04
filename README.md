@@ -35,7 +35,7 @@
 |[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.png" alt="SoftUni Advance" width="100" height="100">](https://softuni.bg/modules/74/python-advanced-may-2024) </br> [Python Advance</br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/advanced_python) | [<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/p_advance.png" alt="Python OOP" width="100" height="100">](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Python OOP </br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/advanced_oop) |
 |---|---|
 
-|[<https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Basic" width="100">]|||
+|[<img src=https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Basic" width="100">]|||
 |-|-|-|
 ||||
 
