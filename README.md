@@ -37,7 +37,7 @@
 
 |<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/basics_python.jpg" alt="SoftUni Basic" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Advance" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/fundamentals_python.jpg" alt="SoftUni Fundamentals" width="250">|
 |-|-|-|
-
+|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/Python_OOP%20Certificate.jpeg" width="250">|||
 
 
 
