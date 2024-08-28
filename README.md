@@ -31,11 +31,15 @@
 |[<img src="https://about.softuni.bg/Content/images/home-page/software-university-logo.svg" alt="SoftUni Basic" width="100" height="100">](https://softuni.bg/trainings/4296/programming-basics-with-python-october-2023) </br> [Python Basic</br>October 2023](https://github.com/Nenogzar/Academy_SoftUni/tree/main/basics_programming)|[<img src="https://about.softuni.bg/Content/images/home-page/foundation-logo.svg" alt="MSoftUni Fundamentals" width="100" height="100">](https://softuni.bg/trainings/4379/programming-fundamentals-with-python-january-2024)</br>[Python Fundamentas</br>January 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/fundamentals_python)|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.png" alt="SoftUni Advance" width="100" height="100">](https://softuni.bg/modules/74/python-advanced-may-2024) </br> [Python Advance</br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/advanced_python) | [<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/p_advance.png" alt="Python OOP" width="100" height="100">](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Python OOP </br>May 2024](https://github.com/Nenogzar/Academy_SoftUni/tree/main/oop) |
 |---|---|---|---|
 
+
+
 ### JS developer
 
-
-|[](https://softuni.bg/trainings/4585/programming-basics-with-javascript-june-2024) </br> [Basics JavaScript](https://github.com/Nenogzar/JS) | [](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Advance JavaScript](Basics JavaScript](https://github.com/Nenogzar/JS)|
+|[](https://softuni.bg/trainings/4585/programming-basics-with-javascript-june-2024) </br> [Basics JavaScript](https://github.com/Nenogzar/JS) | [](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Advance JavaScript](https://github.com/Nenogzar/JS)|
 |---|---|
+
+
+
 
 |<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/basics_python.jpg" alt="SoftUni Basic" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Advance" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/fundamentals_python.jpg" alt="SoftUni Fundamentals" width="250">|
 |-|-|-|
