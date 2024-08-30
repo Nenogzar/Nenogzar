@@ -138,14 +138,17 @@
 
 ### :fire: My Stats :
 <p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox" height="150" alt="stats graph"/>
-  </a>
+  
    <a>
     <img src="https://github-readme-stats.vercel.app/api?username=nenogzar&show_icons=true&theme=gruvbox" height="150" alt="stats graph"/>
   </a>
   <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox" height="150" alt="stats graph"/>
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox" height="200" alt="stats graph"/>
   </a>
   <a>
     <img src="https://github-profile-trophy.vercel.app/?username=nenogzar&&theme=gruvbox&margin-w=10&margin-h=15&column=4*2" height="200" alt="stats graph"/>
