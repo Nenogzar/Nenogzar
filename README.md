@@ -138,13 +138,13 @@
 
 ### :fire: My Stats :
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenogzar&theme=gruvbox" height="150" alt="stats graph"/>
   </a>
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=nenogzar&show_icons=true&theme=gruvbox" height="150" alt="stats graph"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Nenogzar&&theme=gruvbox" height="150" alt="stats graph"/>
   </a>
   <a>
