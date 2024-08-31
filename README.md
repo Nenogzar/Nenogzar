@@ -35,7 +35,7 @@
 
 ### JS developer
 
-|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/JS_basics.jpg" alt="SoftUni Basic" width="100" height="100">](https://softuni.bg/trainings/4585/programming-basics-with-javascript-june-2024) </br> [Basics JavaScript](https://github.com/Nenogzar/JS) | [](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Advance JavaScript](https://github.com/Nenogzar/JS)|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/HTML_CSS.jpg" alt="SoftUni HTML CSS" width="100" height="100">]() </br> [HTML CSS](https://github.com/Nenogzar/JS)|[]() </br> [JS Front-End](https://github.com/Nenogzar/JS)|
+|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/JS_basics.jpg" alt="SoftUni Basic" width="100" height="100">](https://softuni.bg/trainings/4585/programming-basics-with-javascript-june-2024) </br> [Basics JavaScript](https://github.com/Nenogzar/JS/tree/main/JS_Basics) | [](https://softuni.bg/trainings/4542/python-oop-june-2024) </br> [Advance JavaScript](https://github.com/Nenogzar/JS)|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/HTML_CSS.jpg" alt="SoftUni HTML CSS" width="100" height="100">]() </br> [HTML CSS](https://github.com/Nenogzar/JS)|[]() </br> [JS Front-End](https://github.com/Nenogzar/JS)|
 |---|---|---|---|
 
 
