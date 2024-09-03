@@ -41,9 +41,9 @@
 
 
 
-|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/basics_python.jpg" alt="SoftUni Basic" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Advance" width="250">|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/fundamentals_python.jpg" alt="SoftUni Fundamentals" width="250">|
+|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/basics_python.jpg" alt="SoftUni Basic" width="250">](https://softuni.bg/certificates/details/188025/e7429dcd)|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/advance_python.jpg" alt="SoftUni Advance" width="250">](https://softuni.bg/certificates/details/210595/8375aa8a)|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/fundamentals_python.jpg" alt="SoftUni Fundamentals" width="250">](https://softuni.bg/certificates/details/217859/bd727d07)|
 |-|-|-|
-|<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/Python_OOP%20Certificate.jpeg" width="250">|||
+|[<img src="https://github.com/Nenogzar/Academy_SoftUni/blob/main/image/Python_OOP%20Certificate.jpeg" width="250">](https://softuni.bg/certificates/details/222869/eef88ddd)|||
 
 
 
